@@ -1,0 +1,3 @@
+git config user.name "kalyani"
+git config user.email "shakar.kalyani07@gmail.com"
+
